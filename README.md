@@ -1,5 +1,5 @@
 # Codsoft-task
-his repository contains three GUI-based Python applications created as part of my internship at CodSoft. The focus was on designing interactive and functional desktop tools using **Python and Tkinter**.
+This repository contains three GUI-based Python applications created as part of my internship at CodSoft. The focus was on designing interactive and functional desktop tools using **Python and Tkinter**.
 
 ##  Technologies Used
 - Python 3.x
@@ -47,5 +47,6 @@ An interactive To-Do List application to manage daily tasks efficiently.
 Ensure Python is installed:
 ```bash
 python --version
+
 Find me on LinkedIn:
 https://www.linkedin.com/in/pragati-srivastav-37a4b3366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
