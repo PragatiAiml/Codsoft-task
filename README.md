@@ -47,3 +47,5 @@ An interactive To-Do List application to manage daily tasks efficiently.
 Ensure Python is installed:
 ```bash
 python --version
+Find me on LinkedIn:
+https://www.linkedin.com/in/pragati-srivastav-37a4b3366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
